@@ -1,0 +1,98 @@
+strips:
+- zones:
+  - name: C_1
+    on: 19
+  - name: D_1
+    on: 19
+  - name: E_1
+    on: 18
+  - name: F_1
+    on: 18
+  - name: G_1
+    on: 18
+  - name: A_1
+    on: 19
+  - name: B_1
+    on: 25
+  - name: C_2
+    on: 19
+  - name: D_2
+    on: 18
+  - name: E_2
+    on: 17
+  - name: F_2
+    on: 19
+  - name: G_2
+    on: 19
+  - name: A_2
+    on: 18
+  - name: B_2
+    on: 20
+- zones:
+  - name: C#_1
+    off: 11
+    on: 13
+  - name: D#_1
+    off: 12
+    on: 14
+  - name: F#_1
+    off: 12
+    on: 13
+  - name: G#_1
+    off: 7
+    on: 13
+  - name: A#_1
+    off: 10
+    on: 13
+  - name: C#_2
+    off: 16
+    on: 13
+  - name: D#_2
+    off: 9
+    on: 14
+  - name: F#_2
+    off: 23
+    on: 13
+  - name: G#_2
+    off: 7
+    on: 14
+  - name: A#_2
+    off: 7
+    on: 13
+- zones:
+  - name: P_1
+    off: 18
+    on: 31
+  - name: P_2
+    off: 1
+    on: 28
+  - name: P_3
+    on: 25
+  - name: P_4
+    off: 1
+    on: 20
+  - name: P_5
+    on: 18
+  - name: P_6
+    off: 2
+    on: 14
+  - name: P_7
+    off: 2
+    on: 14
+  - name: P_8
+    off: 2
+    on: 18
+  - name: P_9
+    off: 2
+    on: 20
+  - name: P_10
+    off: 2
+    on: 23
+  - name: P_11
+    off: 2
+    on: 26
+  - name: P_12
+    off: 3
+    on: 30
+- zones:
+- zones:
